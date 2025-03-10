@@ -1,6 +1,7 @@
-# Coolsite (Learning Git)
+# Coolsite
 
-Creator: Leo Zhang
+Creator: Edwin Martinson
+Stack: Html, CSS, JavaScript
 Project name: Coolsite
 Creation date: 01/12/2023
 
